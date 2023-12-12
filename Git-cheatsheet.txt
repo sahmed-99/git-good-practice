@@ -1,0 +1,4 @@
+Git cheatsheet
+
+'git status'
+Check the status of the working tress in a Git repository
