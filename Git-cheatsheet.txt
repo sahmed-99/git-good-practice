@@ -2,3 +2,6 @@ Git cheatsheet
 
 'git status'
 Check the status of the working tress in a Git repository
+
+'git add <files>'
+Stage changes in the <file>, ready for committing 
