@@ -1,0 +1,1 @@
+A good commit message should be a short summary of the changes you have made. You can add a more detailed description in a new paragraph underneath. 

@@ -5,3 +5,6 @@ Check the status of the working tress in a Git repository
 
 'git add <files>'
 Stage changes in the <file>, ready for committing 
+
+'git commit'
+Commit changes to the repository that have been staged with 'git add'. You can use '-m' to write a short message
